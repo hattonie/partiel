@@ -1,0 +1,3 @@
+﻿  fruit.c
+C:\Users\amageau\source\repos\main.c\main.c\fruit.c(5,19): warning C4013: 'rand' non défini(e) ; extern retournant int pris par défaut
+  main.c.vcxproj -> C:\Users\amageau\source\repos\main.c\x64\Debug\main.c.exe
